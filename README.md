@@ -11,7 +11,10 @@ Following questions will be answered-
 
 I have referred following links in order to complete this project:
 
-For cleaning and transforming the dataset- https://www.kaggle.com/archaeocharlie/ufo-data
-For transforming the time format from seconds to D:H:M:S- https://www.w3resource.com/python-exercises/python-basic-exercise-65.php 
-For positive and negative word list- http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
-For cleaning the comments- https://www.ravikiranj.net/posts/2012/code/how-build-twitter-sentiment-analyzer/#implementation-details
+* For cleaning and transforming the dataset- https://www.kaggle.com/archaeocharlie/ufo-data
+
+* For transforming the time format from seconds to D:H:M:S- https://www.w3resource.com/python-exercises/python-basic-exercise-65.php 
+
+* For positive and negative word list- http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
+
+* For cleaning the comments- https://www.ravikiranj.net/posts/2012/code/how-build-twitter-sentiment-analyzer/#implementation-details
